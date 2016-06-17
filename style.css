@@ -1,0 +1,15 @@
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'PT Sans', sans-serif;
+	text-decoration: underline;
+	color: #8C001A;
+}
+
+h2 {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
+	color: red;
+	text-align: center;
+	color: #8C001A;
+}
